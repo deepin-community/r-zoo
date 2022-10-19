@@ -1,0 +1,34 @@
+This is the Debian GNU/Linux r-cran-zoo package of zoo, a package with
+a class for totally ordered indexed observations such as irregular
+time series. Zoo was written by Achim Zeileis and Gabor Grothendieck,
+and is maintained by Achim Zeileis <Achim.Zeileis@wu-wien.ac.at>.
+
+This package was created by Dirk Eddelbuettel <edd@debian.org>.
+The sources were downloaded from 
+	http://cran.us.r-project.org/src/contrib/
+
+The package was renamed from its upstream name 'zoo' to 'r-cran-zoo'
+to fit the pattern of CRAN (and non-CRAN) packages for R.
+Additionally, 'r-zoo' was used as the source package name as a source
+package 'zoo' is already part of the Debian archive.
+
+Copyright (C) 2004-2008 Achim Zeileis and Gabor Grothendieck 
+
+License: GPL-2
+
+On a Debian GNU/Linux system, the GPL license (v2) is included in the file
+/usr/share/common-licenses/GPL-2.
+
+For reference, the upstream DESCRIPTION file is included below:
+
+   Package: zoo
+   Version: 0.2-0
+   Date: 2004-08-12
+   Title: Z's ordered observations
+   Author: Achim Zeileis, Gabor Grothendieck
+   Maintainer: Achim Zeileis <Achim.Zeileis@wu-wien.ac.at>
+   Description: A class with methods for totally ordered indexed observations
+                such as irregular time series.
+   Depends: R (>= 1.7.0)
+   License: GPL
+   Packaged: Thu Aug 12 14:44:16 2004; zeileis

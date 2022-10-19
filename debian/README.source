@@ -1,0 +1,13 @@
+Explanation for binary files inside source package according to
+
+  http://lists.debian.org/debian-devel/2013/09/msg00332.html
+
+Files: inst/doc/sunw.rda
+       vignettes/sunw.rda
+  -> Historical data for SUNW
+
+Files: inst/doc/MSFT.rda
+       vignettes/MSFT.rda
+  -> Historical public domain data for MSFT
+                                    
+ -- Dirk Eddelbuettel <edd@debian.org>, Mon,  8 Jan 2018 21:23:12 -0600

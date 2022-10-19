@@ -1,0 +1,522 @@
+r-zoo (1.8-9-1) unstable; urgency=medium
+
+  * New upstream release
+
+  * debian/control: Set Build-Depends: to current R version
+  * debian/control: Switch to virtual debhelper-compat (= 11)
+  * debian/compat: Removed
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Tue, 09 Mar 2021 13:51:24 -0600
+
+r-zoo (1.8-8-1) unstable; urgency=medium
+
+  * New upstream release
+
+  * debian/control: Set Build-Depends: to current R version
+  * debian/control: Set Standards-Version: to current version
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Tue, 05 May 2020 23:02:54 -0500
+
+r-zoo (1.8-7-2) unstable; urgency=medium
+
+  * Source-only upload
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Sun, 19 Jan 2020 17:42:16 -0600
+
+r-zoo (1.8-7-1) unstable; urgency=medium
+
+  * New upstream release
+
+  * debian/control: Set Build-Depends: to current R version
+  * debian/control: Set Standards-Version: to current version
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Sat, 11 Jan 2020 12:00:48 -0600
+
+r-zoo (1.8-6-2) unstable; urgency=medium
+
+  * Source-only upload
+
+  * debian/control: Set Build-Depends: to current R version
+  * debian/control: Set Standards-Version: to current version
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Sat, 17 Aug 2019 17:44:53 -0500
+
+r-zoo (1.8-6-1) unstable; urgency=medium
+
+  * New upstream release
+
+  * debian/control: Set Build-Depends: to current R version
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Sun, 02 Jun 2019 10:49:53 -0500
+
+r-zoo (1.8-5-1) unstable; urgency=medium
+
+  * New upstream release
+
+  * debian/control: Set Build-Depends: to current R version
+  * debian/control: Set Standards-Version: to current version
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Sun, 24 Mar 2019 12:37:54 -0500
+
+r-zoo (1.8-4-1) unstable; urgency=medium
+
+  * New upstream release
+
+  * debian/control: Set Standards-Version: to current version
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Sun, 23 Sep 2018 17:20:02 -0500
+
+r-zoo (1.8-3-1) unstable; urgency=medium
+
+  * debian/control: Set Build-Depends: to current R version
+  * debian/control: Set Standards-Version: to current version
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Tue, 17 Jul 2018 16:11:37 -0500
+
+r-zoo (1.8-2-1) unstable; urgency=medium
+
+  * New upstream release
+
+  * debian/control: Set Build-Depends: to current R version
+  * debian/control: Set Build-Depends: to 'debhelper (>= 10)'
+  * debian/control: Set Standards-Version: to current version
+  * debian/control: Add Vcs-Browser: and Vcs-Git:
+  * debian/control: Switch from cdbs to dh-r
+  * debian/rules: Idem
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Thu, 14 Jun 2018 21:51:57 -0500
+
+r-zoo (1.8-1-1) unstable; urgency=medium
+
+  * New upstream release
+
+  * debian/control: Set Standards-Version: to current version
+  * debian/control: Set Build-Depends: to current R version
+  * debian/compat: Set level to 9
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Mon, 08 Jan 2018 21:15:01 -0600
+
+r-zoo (1.8-0-1) unstable; urgency=medium
+
+  * New upstream release
+
+  * debian/control: Set (Build-)Depends: to current R version
+
+  * debian/control: Added ${misc:Depends} to Depends:
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Wed, 12 Apr 2017 19:50:27 -0500
+
+r-zoo (1.7-14-1) unstable; urgency=medium
+
+  * New upstream release
+
+  * debian/control: Set (Build-)Depends: to current R version
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Fri, 16 Dec 2016 21:39:02 -0600
+
+r-zoo (1.7-13-2) unstable; urgency=medium
+
+  * debian/compat: Created			(Closes: #830352)
+
+  * debian/control: Set Build-Depends: to current R version
+  * debian/control: Set Standards-Version: to current version
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Fri, 08 Jul 2016 06:42:00 -0500
+
+r-zoo (1.7-13-1) unstable; urgency=medium
+
+  * New upstream release
+
+  * debian/control: Set Build-Depends: to current R version
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Tue, 03 May 2016 13:38:19 -0500
+
+r-zoo (1.7-12-1) unstable; urgency=low
+
+  * New upstream release
+
+  * debian/control: Set Build-Depends: to current R version
+  * debian/control: Set Standards-Version: to current version
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Mon, 16 Mar 2015 15:43:10 -0500
+
+r-zoo (1.7-11-1) unstable; urgency=low
+
+  * New upstream release
+
+  * debian/control: Set Build-Depends: to current R version
+  * debian/control: Set Standards-Version: to current version
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Thu, 27 Feb 2014 09:19:57 -0600
+
+r-zoo (1.7-10-1) unstable; urgency=low
+
+  * debian/control: Set Build-Depends: to current R version
+
+  * New upstream release
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Fri, 14 Jun 2013 22:56:18 -0500
+
+r-zoo (1.7-9-2) unstable; urgency=low
+
+  * debian/control: Set Build-Depends: to current R version
+
+  * (Re-)building with R 3.0.0 (beta)
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Fri, 29 Mar 2013 09:12:41 -0500
+
+r-zoo (1.7-9-1) unstable; urgency=low
+
+  * New upstream release
+
+  * debian/control: Set Build-Depends: to current R version
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Sun, 04 Nov 2012 14:00:06 -0600
+
+r-zoo (1.7-8-1) unstable; urgency=low
+
+  * New upstream release
+
+  * debian/control: Set Build-Depends: to current R version
+  * debian/control: Change Depends to ${R:Depends}
+  * debian/control: Set Standards-Version: to current version
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Sat, 06 Oct 2012 12:56:44 -0500
+
+r-zoo (1.7-7-1) unstable; urgency=low
+
+  * New upstream release
+
+  * debian/control: Set (Build-)Depends: to current R version
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Sat, 11 Feb 2012 09:25:44 -0600
+
+r-zoo (1.7-6-1) unstable; urgency=low
+
+  * New upstream release
+
+  * debian/control: Set (Build-)Depends: to current R version
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Wed, 02 Nov 2011 15:51:05 -0500
+
+r-zoo (1.7-5-1) unstable; urgency=low
+
+  * New upstream release
+
+  * debian/control: Set (Build-)Depends: to current R version
+  * debian/control: Set Standards-Version: to current version
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Thu, 27 Oct 2011 13:05:52 -0500
+
+r-zoo (1.7-4-1) unstable; urgency=low
+
+  * New upstream release
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Mon, 22 Aug 2011 10:26:43 -0500
+
+r-zoo (1.7-3-1) unstable; urgency=low
+
+  * New upstream release
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Thu, 11 Aug 2011 10:41:15 -0500
+
+r-zoo (1.7-2-1) unstable; urgency=low
+
+  * New upstream release
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Sat, 23 Jul 2011 09:49:13 -0500
+
+r-zoo (1.7-1-1) unstable; urgency=low
+
+  * New upstream release
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Mon, 18 Jul 2011 06:31:38 -0500
+
+r-zoo (1.7-0-1) unstable; urgency=low
+
+  * New upstream release
+
+  * debian/control: Changed Architecture: to 'any'
+
+  * debian/control: Set (Build-)Depends: to current R version
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Tue, 12 Jul 2011 13:37:23 -0500
+
+r-zoo (1.6-5-1) unstable; urgency=low
+
+  * New upstream release
+
+  * debian/control: Set (Build-)Depends: to current R version
+  * debian/control: Set Standards-Version: to current version
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Fri, 08 Apr 2011 13:48:55 -0500
+
+r-zoo (1.6-4-1) unstable; urgency=low
+
+  * New upstream release
+
+  * debian/control: Set (Build-)Depends: to current R version
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Fri, 09 Jul 2010 12:14:38 -0500
+
+r-zoo (1.6-3-1) unstable; urgency=low
+
+  * New upstream release
+
+  * debian/control: Set (Build-)Depends: to current R version
+  * debian/control: Set Standards-Version: to current version
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Fri, 23 Apr 2010 08:36:56 -0500
+
+r-zoo (1.6-2-1) unstable; urgency=low
+
+  * New upstream release
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Mon, 23 Nov 2009 06:03:19 -0600
+
+r-zoo (1.6-1-1) unstable; urgency=low
+
+  * New upstream release
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Thu, 19 Nov 2009 10:42:37 -0600
+
+r-zoo (1.6-0-1) unstable; urgency=low
+
+  * New upstream release
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Tue, 17 Nov 2009 22:20:02 -0600
+
+r-zoo (1.5-8-2) unstable; urgency=low
+
+  * Rebuilt for R 2.10.0 to work with new R-internal help file conversion
+
+  * debian/control: Set (Build-)Depends: to current R version
+  * debian/control: Set Standards-Version: to current version
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Mon, 02 Nov 2009 21:44:10 -0600
+
+r-zoo (1.5-8-1) unstable; urgency=low
+
+  * New upstream release
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Wed, 22 Jul 2009 16:23:59 -0500
+
+r-zoo (1.5-7-1) unstable; urgency=low
+
+  * New upstream release
+
+  * debian/control: Set (Build-)Depends: to current R version
+  * debian/control: Set Standards-Version: to current version 3.8.2
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Wed, 22 Jul 2009 13:44:01 -0500
+
+r-zoo (1.5-6-1) unstable; urgency=low
+
+  * New upstream release
+
+  * debian/control: Changed Section: to new section 'gnu-r'
+
+  * debian/control: Set (Build-)Depends: to current R version
+  * debian/control: Set Standards-Version: to current version 3.8.1
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Fri, 22 May 2009 09:40:36 -0500
+
+r-zoo (1.5-5-1) unstable; urgency=low
+
+  * New upstream release
+
+  * debian/control: Set (Build-)Depends: to current R version 2.8.1
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Thu, 05 Feb 2009 21:33:29 -0600
+
+r-zoo (1.5-4-1) unstable; urgency=low
+
+  * New upstream release
+
+  * debian/control: Set (Build-)Depends: to current R version 2.7.1
+  * debian/control: Set Standards-Version: to current version 3.8.0
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Wed, 09 Jul 2008 19:50:12 -0500
+
+r-zoo (1.5-3-1) unstable; urgency=low
+
+  * New upstream release
+
+  * debian/control: Set (Build-)Depends: to current R version
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Tue, 22 Apr 2008 14:42:17 -0500
+
+r-zoo (1.5-2-1) unstable; urgency=low
+
+  * New upstream release
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Sat, 05 Apr 2008 07:28:24 -0500
+
+r-zoo (1.5-0-1) unstable; urgency=low
+
+  * New upstream release
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Fri, 14 Mar 2008 14:51:45 -0500
+
+r-zoo (1.4-2-1) unstable; urgency=low
+
+  * New upstream release
+
+  * debian/control: Set Standards-Version: to current version 3.7.3
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Mon, 28 Jan 2008 06:55:51 -0600
+
+r-zoo (1.4-1-1) unstable; urgency=low
+
+  * New upstream release
+
+  * Built with R 2.6.1: (Build-)Depends: to 'r-base-(core|dev) >= 2.6.1'
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Fri, 14 Dec 2007 22:02:50 -0600
+
+r-zoo (1.4-0-1) unstable; urgency=low
+
+  * New upstream release
+  * Built with R 2.6.0, so setting (Build-)Depends: to
+    'r-base-(core|dev) >> 2.5.1' to prevent move to testing before R 2.6.0
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Fri, 12 Oct 2007 17:30:20 -0500
+
+r-zoo (1.3-2-1) unstable; urgency=low
+
+  * New upstream release
+
+  * debian/control: Updated (Build-)Depends: to r-base-dev (>= 2.5.1~20070625)
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Tue, 26 Jun 2007 19:53:45 -0500
+
+r-zoo (1.3-1-1) unstable; urgency=low
+
+  * New upstream release
+
+  * debian/control: Build-Depends: updated to r-base-dev (>= 2.5.0)
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Mon, 14 May 2007 21:15:40 -0500
+
+r-zoo (1.3-0-1) unstable; urgency=low
+
+  * New upstream release
+
+  * debian/control: Build-Depends: updated to r-base-dev (>= 2.5.0~20070412-1)
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Fri, 20 Apr 2007 19:27:53 -0500
+
+r-zoo (1.2-2-1) unstable; urgency=low
+
+  * New upstream release
+  * Upload intended for unstable only as etch is frozen
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Tue, 19 Dec 2006 19:54:10 -0600
+
+r-zoo (1.2-1-1) unstable; urgency=low
+
+  * New upstream release
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Tue, 19 Sep 2006 20:21:07 -0500
+
+r-zoo (1.2-0-1) unstable; urgency=low
+
+  * New upstream release
+  * debian/control: Added r-cran-lattice to Build-Depends:
+  * debian/watch: Dropped 'uversionmangle' with 'hyphened' version number
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Tue, 29 Aug 2006 22:02:23 -0500
+
+r-zoo (1.1-1-1) unstable; urgency=low
+
+  * New upstream release
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Mon,  3 Jul 2006 18:07:12 -0500
+
+r-zoo (1.1-0-1) unstable; urgency=low
+
+  * New upstream release
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Tue,  6 Jun 2006 17:23:53 -0500
+
+r-zoo (1.0-7-1) unstable; urgency=low
+
+  * New upstream release
+
+  * debian/rules: Simplified to cdbs-based one-liner sourcing r-cran.mk
+  * debian/control: Hence Build-Depends: updated to r-base-dev (>= 2.3.0)
+
+  * debian/control: Standards-Version: increased to 3.7.2
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Mon, 22 May 2006 21:20:01 -0500
+
+r-zoo (1.0-6-1) unstable; urgency=low
+
+  * New upstream release
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Fri,  7 Apr 2006 16:59:16 -0500
+
+r-zoo (1.0-5-1) unstable; urgency=low
+
+  * New upstream release
+
+  * debian/watch: Added uversionmangle option
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Mon,  6 Feb 2006 20:55:28 -0600
+
+r-zoo (1.0-4-1) unstable; urgency=low
+
+  * New upstream release
+
+  * debian/watch: Corrected typo in regular expression
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Thu, 19 Jan 2006 13:26:32 -0600
+
+r-zoo (1.0-3-1) unstable; urgency=low
+
+  * New upstream release
+
+  * debian/control: Standards-Version: upgradeded to 3.6.2
+  * debian/watch: Updated regular expression
+  * debian/post{inst,rm}: No longer call R to update html index
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Thu,  1 Dec 2005 21:22:12 -0600
+
+r-zoo (1.0-2-1) unstable; urgency=low
+
+  * New upstream release
+  * debian/post{inst,rm}: Call /usr/bin/R explicitly (thanks, Kurt Hornik)
+  * debian/control: Upgraded Standards-Version: to 3.6.2.1
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Thu,  8 Sep 2005 23:37:06 -0500
+
+r-zoo (1.0-1-1) unstable; urgency=low
+
+  * New upstream release
+  * debian/watch: Corrected regular expression with thanks to Rafael Laboissier
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Wed, 22 Jun 2005 20:31:56 -0500
+
+r-zoo (1.0-0-1) unstable; urgency=low
+
+  * New upstream version 1.0-0 (congrats, Achim + Gabor) released today
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Wed, 25 May 2005 20:13:44 -0500
+
+r-zoo (0.9.9-1) unstable; urgency=low
+
+  * New upstream release
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Wed, 27 Apr 2005 22:04:00 -0500
+
+r-zoo (0.9.1-1) unstable; urgency=low
+
+  * New upstream release
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Tue, 21 Dec 2004 14:56:07 -0600
+
+r-zoo (0.2.0-1) unstable; urgency=low
+
+  * Initial Debian release
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Wed, 27 Oct 2004 22:21:39 -0500

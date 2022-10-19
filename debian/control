@@ -1,0 +1,16 @@
+Source: r-zoo
+Section: gnu-r
+Priority: optional
+Maintainer: Dirk Eddelbuettel <edd@debian.org>
+Build-Depends: debhelper-compat (= 11), dh-r, r-base-dev (>= 4.0.4), r-cran-lattice (>= 0.20-27)
+Standards-Version: 4.5.1
+Vcs-Browser: https://salsa.debian.org/edd/r-cran-zoo
+Vcs-Git: https://salsa.debian.org/edd/r-cran-zoo.git
+Homepage: https://cran.r-project.org/package=zoo
+
+Package: r-cran-zoo
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ${R:Depends}, r-cran-lattice (>= 0.20-27)
+Description: GNU R package for totally ordered indexed observations
+ This package contains an S4 class with methods for totally ordered indexed
+ observations such as irregular time series.
